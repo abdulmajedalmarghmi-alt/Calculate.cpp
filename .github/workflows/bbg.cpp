@@ -1,6 +1,1 @@
-
-#include<iostream>
-using namespace std;   
-{
-  cout<<"hi";
-}                                                               int main (){                int x , y , sum;                cout<<"enter tow number : ";                cin>>x>>y;                sum=x+y;                cout<<"the number = "<<x*y<<end1;                cout<<"the sum is : "<<sum<<end 1;                getchar  ();                getchar  ();                return 0;}                
+                #include<iostream.h>#include<conio.>using namespace std;    void main()<stdin>{    clrscr();    int x,y,s;     cout<<"Enter the number x:";    cin>>x;    cout<<"Enter the number y:";    cin>>y;    s=x+y;    cout<<"x+y="<<s;    getch()}                                         int main (){                int x , y , sum;                cout<<"enter tow number : ";                cin>>x>>y;                sum=x+y;                cout<<"the number = "<<x*y<<end1;                cout<<"the sum is : "<<sum<<end 1;                getchar  ();                getchar  ();                return 0;}                
